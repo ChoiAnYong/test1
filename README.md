@@ -13,3 +13,8 @@
   - Memo: 
   - Tag: 커리큘럼
   - Deadline: 2025-02-17
+
+- React의 주요 개념 이해하기 (컴포넌트, JSX, Props, State)
+  - Memo: 
+  - Tag: 커리큘럼
+  - Deadline: 2025-02-17
