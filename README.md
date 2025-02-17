@@ -8,3 +8,8 @@
   - Memo: 
   - Tag: 커리큘럼
   - Deadline: 2025-02-17
+
+- Spring 프레임워크의 이해와 장점 배우기
+  - Memo: 
+  - Tag: 커리큘럼
+  - Deadline: 2025-02-17
